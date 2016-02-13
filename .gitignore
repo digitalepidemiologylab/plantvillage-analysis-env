@@ -1,0 +1,11 @@
+local-mode/plantvillage/
+local-mode/.vagrant
+aws-cpu-mode/.vagrant
+aws-cpu-mode/dump.rdb
+aws-cpu-mode/.plantvillage.secret.yml
+aws-gpu-mode/.vagrant
+aws-gpu-mode/dump.rdb
+aws-gpu-mode/.plantvillage.secret.yml
+dump.rdb
+
+plantvillage/digits/*
