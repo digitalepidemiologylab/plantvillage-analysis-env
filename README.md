@@ -32,6 +32,12 @@ cp .plantvillage.secret.yml.example .plantvillage.secret.yml
 # At : aws-cpu-mode/.vagrant in case of cpu-mode
 # At : aws-gpu-mode/.vagrant in case of gpu-mode
 
+
+#
+#
+#
+
+
 # Let's spawn some VMs!
 vagrant up --provider aws
 ```
